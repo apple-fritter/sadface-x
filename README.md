@@ -1,4 +1,4 @@
-This is a fork of (sadface)[https://github.com/benlk/sadface], by [benlk](https://github.com/benlk)
+This is a fork of [sadface](https://github.com/benlk/sadface), by [benlk](https://github.com/benlk)
 
 # sadface
 
